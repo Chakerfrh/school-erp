@@ -10,8 +10,6 @@
 
 ## Demo
 
-Want to see hrapp in action?
-
 Comming soon
 
 ## License
