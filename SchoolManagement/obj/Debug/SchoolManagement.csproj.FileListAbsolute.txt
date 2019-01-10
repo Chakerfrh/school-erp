@@ -1,0 +1,173 @@
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\FlashControlV71.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\stdole.dll
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.ResolveComReference.cache
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.CrystalReports.frmReport.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountGroup.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountLedger.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmClass.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAttendance.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFeeProcessing.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFees.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmGrading.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmLedgerPopup.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmRegisterStaff.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSalaryPackage.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStaffInquiries.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStudentImport.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSubjects.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmTerm.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmJournalType.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmRoles.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmUserRights.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmDesignation.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmMDI.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmCreateUser.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmLogin.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmServerConfig.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmStudentRegister.resources
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\MySql.Data.xml
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+G:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.ResolveComReference.cache
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.CrystalReports.frmReport.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountGroup.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountLedger.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmClass.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAttendance.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFeeProcessing.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFees.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmGrading.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmLedgerPopup.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmRegisterStaff.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSalaryPackage.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStaffInquiries.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStudentImport.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSubjects.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmTerm.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmJournalType.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmRoles.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmUserRights.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmDesignation.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmMDI.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmCreateUser.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmLogin.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmServerConfig.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmStudentRegister.resources
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+G:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.manifest
+G:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.application
+G:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+G:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Shared.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\FlashControlV71.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\ShockwaveFlashObjects.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\stdole.dll
+G:\SchoolManagement\SchoolManagement\bin\Debug\MySql.Data.xml
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe.manifest
+G:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.application
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.ResolveComReference.cache
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.manifest
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.application
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Shared.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\FlashControlV71.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\ShockwaveFlashObjects.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\stdole.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\MySql.Data.xml
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.CrystalReports.frmReport.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountGroup.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAccountLedger.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmClass.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmAttendance.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFeeProcessing.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmFees.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmGrading.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmLedgerPopup.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmRegisterStaff.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSalaryPackage.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStaffInquiries.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStudentImport.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmSubjects.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmTerm.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmJournalType.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmRoles.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.Settings.frmUserRights.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmDesignation.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmMDI.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmCreateUser.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmLogin.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Settings.frmServerConfig.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmStudentRegister.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe.manifest
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.application
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.CrystalReports.frmAttendanceInquiry.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmPromoteStudents.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\bin\Debug\System.Windows.Forms.Ribbon.dll
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.frmMD1.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmStudentBalances.resources
+G:\Tutorials\CSHARP\Projects_and_Examples\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Forms.frmPayment.resources

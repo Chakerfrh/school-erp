@@ -1,0 +1,4 @@
+api/*
+db.sqlite3
+manage.py
+sito/*

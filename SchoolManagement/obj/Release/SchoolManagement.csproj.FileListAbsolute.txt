@@ -1,0 +1,2 @@
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Release\SchoolManagement.exe.config
+C:\Users\adin\Documents\Visual Studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Release\SchoolManagement.csproj.ResolveComReference.cache
