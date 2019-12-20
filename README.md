@@ -8,12 +8,12 @@
 - Perform CRUD operations on students.
 - Record student attendances and marks.
 - Perform student promotion.
-- Generate student fees and fees structure(Ongoing).
-- Add student admission workflow.
-- Add user roles and permissions.
-- Add timetable (Ongoing).
-- Accounting Module(Ongoing)
-- Payrol Module(Ongoing)
+- Generate student fees and fees structure.
+- Student admission workflow.
+- Custome user roles and permissions.
+- Generate timetable.
+- Accounting Module.
+- Payrol Module.
 
 ## Demo
 (https://www.youtube.com/watch?v=dsou3-oU1JE&t=497s)
