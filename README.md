@@ -5,12 +5,17 @@
 - This app demonstrates among other things how to intergrate MYSQL and C#.
 
 ## Features
-- Accounting Module
-- Payrol Module
+- Perform CRUD operations on students.
+- Record student attendances and marks.
+- Perform student promotion.
+- Generate student fees and fees structure(Ongoing).
+- Add timetable (Ongoing).
+- Accounting Module(Ongoing)
+- Payrol Module(Ongoing)
 
 ## Demo
+(https://www.youtube.com/watch?v=dsou3-oU1JE&t=497s)
 
-Comming soon
 
 ## License
 
