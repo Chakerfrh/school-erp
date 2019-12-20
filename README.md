@@ -9,6 +9,8 @@
 - Record student attendances and marks.
 - Perform student promotion.
 - Generate student fees and fees structure(Ongoing).
+- Add student admission workflow.
+- Add user roles and permissions.
 - Add timetable (Ongoing).
 - Accounting Module(Ongoing)
 - Payrol Module(Ongoing)
